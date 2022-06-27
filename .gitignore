@@ -1,0 +1,5 @@
+*.psd
+origin/
+plan.pdf
+plan_*.pdf
+src/svg/logo.*
